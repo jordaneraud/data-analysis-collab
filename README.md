@@ -1,3 +1,2 @@
 # data-analysis-collab
-
-Une ligne écrite par Pierre
+Analyse collaborative des 171 ventes de l'équipe GreenBoys
