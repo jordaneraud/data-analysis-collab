@@ -1,0 +1,172 @@
+id_vente,date_vente,produit,categorie,quantite,prix_unitaire,ville,vendeur
+1046,2026-01-07,Support d'écran,Accessoires,1,39.9,Lille,D. Sanchez
+1150,2026-01-07,Clé USB 64 Go,Stockage,2,14.9,Lille,E. Bonnet
+1069,2026-01-08,ÉCRAN 24 POUCES,Écrans,2,159,Bordeaux,C. Mercier
+1044,2026-01-09,Clavier mécanique,Périphériques,1,89.9,Nantes,E. Bonnet
+1139,2026-01-10,Souris sans fil,Périphériques,1,34.5,Lyon,D. Sanchez
+1011,2026-01-13,Clavier mécanique,Périphériques,5,89.9,Rennes,C. Mercier
+1096,2026-01-14,écran 27 pouces,Écrans,4,249,Rennes,E. Bonnet
+1129,2026-01-14,Écran 27 pouces,Écrans,2,249,Nantes,E. Bonnet
+1110,2026-01-16,Support d'écran,Accessoires,2,39.9,Marseille,D. Sanchez
+1151,2026-01-18,Station d'accueil,Périphériques,2,179,Nantes,A. Fournier
+1040,2026-01-19,Station d'accueil,Périphériques,1,179,Lyon,E. Bonnet
+1087,2026-01-19,Clavier mécanique,Périphériques,1,89.9,Nantes,B. Leclerc
+1034,2026-01-21,ÉCRAN 27 POUCES,Écrans,1,249,Nantes,A. Fournier
+1058,2026-01-23,Souris sans fil,Périphériques,5,34.5,Lyon,A. Fournier
+1161,2026-01-24,Disque SSD 1 To,Stockage,1,104.9,Lille,C. Mercier
+1060,2026-01-27,Souris sans fil,Périphériques,2,34.5,Nantes,B. Leclerc
+1029,2026-01-28,Clavier mécanique,Périphériques,1,89.9,Toulouse,A. Fournier
+1071,2026-01-29,Clavier mécanique,Périphériques,1,89.9,Rennes,C. Mercier
+1136,2026-01-29,Clavier mécanique,Périphériques,4,89.9,Marseille,A. Fournier
+1002,2026-01-30,Écran 27 pouces,Écrans,2,249,Rennes,D. Sanchez
+1008,2026-01-31,Support d'écran,Accessoires,2,39.9,Marseille,A. Fournier
+1020,2026-02-01,Clavier mécanique,Périphériques,1,89.9,Strasbourg,A. Fournier
+1094,2026-02-01,Casque audio,Audio,1,129,Strasbourg,E. Bonnet
+1137,2026-02-01,Support d'écran,Accessoires,1,39.9,Rennes,A. Fournier
+1154,2026-02-03,webcam hd,Périphériques,1,59.9,Lyon,E. Bonnet
+1099,2026-02-04,Station d'accueil,Périphériques,2,179,Strasbourg,D. Sanchez
+1039,2026-02-05,Écran 27 pouces,Écrans,3,249,Lille,B. Leclerc
+1114,2026-02-07,Souris sans fil,Périphériques,5,34.5,Bordeaux,B. Leclerc
+1103,2026-02-09,Clé USB 64 Go,Stockage,4,14.9,Strasbourg,E. Bonnet
+1065,2026-02-10,Écran 24 pouces,Écrans,4,159,Nantes,D. Sanchez
+1157,2026-02-12,Écran 27 pouces,Écrans,1,249,Marseille,A. Fournier
+1085,2026-02-13,Support d'écran,Accessoires,3,39.9,Lille,E. Bonnet
+1030,2026-02-14,Écran 24 pouces,Écrans,2,159,Bordeaux,E. Bonnet
+1160,2026-02-14,Écran 24 pouces,Écrans,2,159,Lille,D. Sanchez
+1107,2026-02-16,écran 27 pouces,Écrans,1,249,Lyon,C. Mercier
+1032,2026-02-17,disque ssd 1 to,Stockage,1,104.9,Strasbourg,A. Fournier
+1098,2026-02-17,Souris sans fil,Périphériques,1,34.5,Lille,E. Bonnet
+1050,2026-02-18,Support d'écran,Accessoires,1,39.9,Nantes,A. Fournier
+1119,2026-02-18,Écran 24 pouces,Écrans,1,159,Bordeaux,E. Bonnet
+1045,2026-02-19,Souris sans fil,Périphériques,3,34.5,Nantes,A. Fournier
+1073,2026-02-21,Clavier mécanique,Périphériques,5,89.9,Bordeaux,C. Mercier
+1088,2026-02-22,Station d'accueil,Périphériques,1,179,Toulouse,B. Leclerc
+1091,2026-02-24,Webcam HD,Périphériques,2,59.9,Marseille,D. Sanchez
+1067,2026-02-27,Station d'accueil,Périphériques,1,179,Lille,A. Fournier
+1070,2026-02-27,Clavier mécanique,Périphériques,2,89.9,Strasbourg,E. Bonnet
+1031,2026-02-28,Enceinte Bluetooth,Audio,2,74.5,Marseille,A. Fournier
+1051,2026-03-01,Station d'accueil,Périphériques,4,179,Nantes,D. Sanchez
+1152,2026-03-01,WEBCAM HD,Périphériques,3,59.9,Bordeaux,E. Bonnet
+1062,2026-03-02,Clé USB 64 Go,Stockage,4,14.9,Strasbourg,B. Leclerc
+1131,2026-03-02,STATION D'ACCUEIL,Périphériques,3,179,Toulouse,B. Leclerc
+1162,2026-03-02,Station d'accueil,Périphériques,1,179,Nantes,E. Bonnet
+1023,2026-03-05,enceinte bluetooth,Audio,1,74.5,Toulouse,A. Fournier
+1035,2026-03-06,SOURIS SANS FIL,Périphériques,3,34.5,Lyon,C. Mercier
+1080,2026-03-07,Clé USB 64 Go,Stockage,2,14.9,Marseille,D. Sanchez
+1106,2026-03-08,Clavier mécanique,Périphériques,3,89.9,Marseille,A. Fournier
+1016,2026-03-09,webcam hd,Périphériques,3,59.9,Nantes,B. Leclerc
+1121,2026-03-10,DISQUE SSD 1 TO,Stockage,4,104.9,Nantes,A. Fournier
+1079,2026-03-11,Casque audio,Audio,2,129,Toulouse,A. Fournier
+1095,2026-03-11,Écran 24 pouces,Écrans,1,159,Rennes,C. Mercier
+1012,2026-03-12,Webcam HD,Périphériques,1,59.9,Rennes,C. Mercier
+1053,2026-03-12,Station d'accueil,Périphériques,2,179,Bordeaux,C. Mercier
+1064,2026-03-14,Écran 24 pouces,Écrans,2,159,Marseille,B. Leclerc
+1167,2026-03-14,Casque audio,Audio,1,129,Lyon,C. Mercier
+1076,2026-03-16,Écran 24 pouces,Écrans,1,159,Nantes,D. Sanchez
+1054,2026-03-19,Station d'accueil,Périphériques,1,179,Bordeaux,E. Bonnet
+1130,2026-03-19,Station d'accueil,Périphériques,3,179,Strasbourg,D. Sanchez
+1109,2026-03-20,Clavier mécanique,Périphériques,2,89.9,Nantes,E. Bonnet
+1145,2026-03-20,Clé USB 64 Go,Stockage,5,14.9,Nantes,B. Leclerc
+1019,2026-03-24,Enceinte Bluetooth,Audio,2,74.5,Marseille,D. Sanchez
+1017,2026-03-26,Clavier mécanique,Périphériques,1,89.9,Rennes,E. Bonnet
+1017,2026-03-26,Clavier mécanique,Périphériques,1,89.9,Rennes,E. Bonnet
+1033,2026-03-26,Station d'accueil,Périphériques,1,179,Nantes,C. Mercier
+1124,2026-03-26,Écran 27 pouces,Écrans,2,249,Lille,D. Sanchez
+1000,2026-03-27,Souris sans fil,Périphériques,4,34.5,Lyon,E. Bonnet
+1100,2026-03-28,Webcam HD,Périphériques,3,59.9,Bordeaux,D. Sanchez
+1115,2026-03-28,Support d'écran,Accessoires,4,39.9,,A. Fournier
+1149,2026-03-29,Enceinte Bluetooth,Audio,3,74.5,Strasbourg,C. Mercier
+1074,2026-04-03,Écran 24 pouces,Écrans,2,159,Rennes,A. Fournier
+1138,2026-04-03,Souris sans fil,Périphériques,4,34.5,Lyon,B. Leclerc
+1003,2026-04-04,Écran 27 pouces,Écrans,1,249,Toulouse,C. Mercier
+1140,2026-04-04,Clé USB 64 Go,Stockage,1,14.9,Toulouse,C. Mercier
+1104,2026-04-05,Clavier mécanique,Périphériques,2,89.9,Lyon,E. Bonnet
+1038,2026-04-06,ÉCRAN 27 POUCES,Écrans,2,249,Toulouse,C. Mercier
+1047,2026-04-07,Tapis de souris XL,Accessoires,2,19.9,Nantes,C. Mercier
+1090,2026-04-07,Clé USB 64 Go,Stockage,5,14.9,Rennes,A. Fournier
+1093,2026-04-08,Tapis de souris XL,Accessoires,3,19.9,Rennes,D. Sanchez
+1005,2026-04-09,Tapis de souris XL,Accessoires,5,19.9,Toulouse,A. Fournier
+1057,2026-04-09,Souris sans fil,Périphériques,3,34.5,Bordeaux,D. Sanchez
+1156,2026-04-09,Disque SSD 1 To,Stockage,1,104.9,Rennes,D. Sanchez
+1042,2026-04-13,Disque SSD 1 To,Stockage,1,104.9,Bordeaux,E. Bonnet
+1112,2026-04-13,Disque SSD 1 To,Stockage,1,104.9,Marseille,E. Bonnet
+1155,2026-04-14,TAPIS DE SOURIS XL,Accessoires,1,19.9,Rennes,C. Mercier
+1143,2026-04-20,Souris sans fil,Périphériques,2,34.5,Nantes,B. Leclerc
+1026,2026-04-23,Écran 27 pouces,Écrans,3,249,Toulouse,B. Leclerc
+1092,2026-04-24,WEBCAM HD,Périphériques,2,59.9,Marseille,C. Mercier
+1061,2026-04-25,Écran 24 pouces,Écrans,1,159,Rennes,B. Leclerc
+1128,2026-04-25,Casque audio,Audio,1,129,Toulouse,E. Bonnet
+1159,2026-04-25,Casque audio,Audio,1,129,Rennes,B. Leclerc
+1123,2026-04-27,Écran 27 pouces,Écrans,4,249,Nantes,D. Sanchez
+1063,2026-04-28,Casque audio,Audio,3,129,Marseille,A. Fournier
+1063,2026-04-28,Casque audio,Audio,3,129,Marseille,A. Fournier
+1015,2026-04-30,Casque audio,Audio,1,129,Rennes,E. Bonnet
+1127,2026-04-30,Écran 24 pouces,Écrans,2,159,Lille,C. Mercier
+1153,2026-05-01,Station d'accueil,Périphériques,1,179,Lille,D. Sanchez
+1013,2026-05-02,Écran 24 pouces,Écrans,1,159,Nantes,D. Sanchez
+1048,2026-05-02,Écran 24 pouces,Écrans,2,159,Rennes,B. Leclerc
+1027,2026-05-03,Écran 27 pouces,Écrans,1,249,Toulouse,C. Mercier
+1148,2026-05-03,Enceinte Bluetooth,Audio,4,74.5,Strasbourg,D. Sanchez
+1086,2026-05-04,Souris sans fil,Périphériques,1,34.5,Strasbourg,D. Sanchez
+1108,2026-05-04,Tapis de souris XL,Accessoires,2,19.9,Lille,D. Sanchez
+1018,2026-05-06,Webcam HD,Périphériques,1,59.9,Nantes,B. Leclerc
+1021,2026-05-06,Station d'accueil,Périphériques,5,179,Strasbourg,D. Sanchez
+1165,2026-05-06,ÉCRAN 24 POUCES,Écrans,2,159,Marseille,E. Bonnet
+1007,2026-05-07,Enceinte Bluetooth,Audio,1,74.5,Bordeaux,E. Bonnet
+1014,2026-05-07,Tapis de souris XL,Accessoires,2,19.9,Rennes,D. Sanchez
+1055,2026-05-07,Support d'écran,Accessoires,1,39.9,Marseille,B. Leclerc
+1028,2026-05-08,Station d'accueil,Périphériques,2,179,Nantes,B. Leclerc
+1102,2026-05-08,Disque SSD 1 To,Stockage,1,104.9,Bordeaux,E. Bonnet
+1001,2026-05-10,Station d'accueil,Périphériques,1,179,,A. Fournier
+1075,2026-05-10,Support d'écran,Accessoires,5,39.9,Strasbourg,B. Leclerc
+1101,2026-05-10,Clavier mécanique,Périphériques,5,89.9,Bordeaux,E. Bonnet
+1116,2026-05-12,Tapis de souris XL,Accessoires,3,19.9,Strasbourg,A. Fournier
+1010,2026-05-13,Support d'écran,Accessoires,2,39.9,Toulouse,C. Mercier
+1006,2026-05-14,Disque SSD 1 To,Stockage,2,104.9,Rennes,D. Sanchez
+1113,2026-05-14,Webcam HD,Périphériques,1,59.9,Marseille,C. Mercier
+1052,2026-05-17,Station d'accueil,Périphériques,4,179,Lyon,C. Mercier
+1059,2026-05-17,Station d'accueil,Périphériques,3,179,Rennes,A. Fournier
+1146,2026-05-17,Écran 24 pouces,Écrans,2,159,Lyon,A. Fournier
+1025,2026-05-20,Support d'écran,Accessoires,1,39.9,Marseille,D. Sanchez
+1056,2026-05-23,écran 24 pouces,Écrans,1,159,Lyon,C. Mercier
+1082,2026-05-23,Enceinte Bluetooth,Audio,1,74.5,Marseille,E. Bonnet
+1084,2026-05-23,Écran 27 pouces,Écrans,1,249,Marseille,B. Leclerc
+1111,2026-05-23,Clavier mécanique,Périphériques,1,89.9,Rennes,A. Fournier
+1024,2026-05-24,support d'écran,Accessoires,1,39.9,Bordeaux,B. Leclerc
+1134,2026-05-24,Clavier mécanique,Périphériques,5,89.9,Bordeaux,E. Bonnet
+1141,2026-05-24,Tapis de souris XL,Accessoires,1,19.9,Strasbourg,B. Leclerc
+1066,2026-05-25,Clavier mécanique,Périphériques,5,89.9,Strasbourg,E. Bonnet
+1105,2026-05-26,Souris sans fil,Périphériques,4,34.5,Lyon,D. Sanchez
+1004,2026-05-27,Souris sans fil,Périphériques,2,34.5,Marseille,A. Fournier
+1166,2026-05-27,Clavier mécanique,Périphériques,1,89.9,Nantes,C. Mercier
+1068,2026-05-28,Écran 27 pouces,Écrans,5,249,Toulouse,D. Sanchez
+1081,2026-05-28,Casque audio,Audio,4,129,Strasbourg,E. Bonnet
+1072,2026-05-30,Souris sans fil,Périphériques,2,34.5,Marseille,D. Sanchez
+1158,2026-05-31,Clé USB 64 Go,Stockage,2,14.9,Marseille,A. Fournier
+1132,2026-06-03,Station d'accueil,Périphériques,2,179,Lille,B. Leclerc
+1122,2026-06-04,Clé USB 64 Go,Stockage,1,14.9,Strasbourg,D. Sanchez
+1037,2026-06-06,Webcam HD,Périphériques,2,59.9,Lyon,D. Sanchez
+1041,2026-06-06,Écran 24 pouces,Écrans,1,159,Lille,C. Mercier
+1078,2026-06-06,Station d'accueil,Périphériques,1,179,Strasbourg,E. Bonnet
+1147,2026-06-07,Webcam HD,Périphériques,4,59.9,Lyon,D. Sanchez
+1144,2026-06-08,Tapis de souris XL,Accessoires,2,19.9,Nantes,E. Bonnet
+1036,2026-06-09,Clé USB 64 Go,Stockage,3,14.9,Lille,E. Bonnet
+1142,2026-06-09,Enceinte Bluetooth,Audio,2,74.5,Toulouse,C. Mercier
+1097,2026-06-11,clé usb 64 go,Stockage,1,14.9,Strasbourg,D. Sanchez
+1022,2026-06-12,Enceinte Bluetooth,Audio,3,74.5,Bordeaux,D. Sanchez
+1133,2026-06-12,Clé USB 64 Go,Stockage,2,14.9,Marseille,C. Mercier
+1049,2026-06-14,Casque audio,Audio,4,129,Lille,A. Fournier
+1135,2026-06-16,Écran 24 pouces,Écrans,3,159,Lyon,C. Mercier
+1077,2026-06-19,Souris sans fil,Périphériques,1,34.5,Nantes,E. Bonnet
+1126,2026-06-19,Écran 24 pouces,Écrans,4,159,Nantes,C. Mercier
+1043,2026-06-23,Clavier mécanique,Périphériques,1,89.9,Toulouse,B. Leclerc
+1089,2026-06-23,Webcam HD,Périphériques,4,59.9,Marseille,D. Sanchez
+1120,2026-06-23,station d'accueil,Périphériques,2,179,Lille,B. Leclerc
+1120,2026-06-23,station d'accueil,Périphériques,2,179,Lille,B. Leclerc
+1083,2026-06-24,Clavier mécanique,Périphériques,1,89.9,Nantes,B. Leclerc
+1118,2026-06-26,Enceinte Bluetooth,Audio,1,74.5,Marseille,A. Fournier
+1117,2026-06-28,Tapis de souris XL,Accessoires,2,19.9,Bordeaux,C. Mercier
+1164,2026-06-28,Écran 27 pouces,Écrans,2,249,Rennes,B. Leclerc
+1163,2026-06-30,Souris sans fil,Périphériques,2,34.5,Marseille,E. Bonnet
+1125,2026-07-01,Webcam HD,Périphériques,1,59.9,Lyon,E. Bonnet
+1009,2026-07-03,Support d'écran,Accessoires,2,39.9,Nantes,E. Bonnet
